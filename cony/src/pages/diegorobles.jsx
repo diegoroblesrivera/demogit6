@@ -9,6 +9,7 @@ function MiVista() {
         <h3>Esta e mi linea personalizda</h3>
 
         <h3>COLO COLO lo ma grandeeeeeeee </h3>
+        <h3>Colo Colo y la 35 el domingo!</h3>
 
     </div>
   );
