@@ -10,6 +10,9 @@ function MiVista() {
 
         <h3>COLO COLO lo ma grandeeeeeeee </h3>
 
+        <h3>El de arriba es wn</h3>
+
+
     </div>
   );
 }
