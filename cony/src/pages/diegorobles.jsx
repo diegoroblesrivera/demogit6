@@ -11,6 +11,9 @@ function MiVista() {
         <h3>COLO COLO lo ma grandeeeeeeee </h3>
         <h3>Colo Colo y la 35 el domingo!</h3>
 
+        <h3>El de arriba es wn</h3>
+
+
     </div>
   );
 }
