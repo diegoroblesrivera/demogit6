@@ -1,11 +1,11 @@
-import { useState } from 'react'
-import PierVillaorta from './pages/PierVillaorta'
+
+import {PierVillacorta} from './pages/PierVillaorta'
 
 
 function App() {
   return(
     <>
-      <PierVillaorta/>
+      <PierVillacorta/>
     </>
   )
 }
