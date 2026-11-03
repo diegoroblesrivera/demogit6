@@ -6,7 +6,7 @@ function MiVista() {
       <h1>¡Hola, React!</h1>
       <p>Esta es una vista simple creada en React.</p>
 
-      <h3>¡hola soy benjaja y esta son mis lineas h3!</h3>
+      <h3>hola soy benjaja y esta son mis lineas h3</h3>
 
 
     </div>
